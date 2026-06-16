@@ -10,7 +10,7 @@ This web app calculates monthly mortgage payments using user input.
 - Clean responsive layout using CSS Grid
 
 ## Live Demo
-(Add CodeSandbox link here)
+https://4d8lc4.csb.app/
 
 ## Built With
 - HTML5
